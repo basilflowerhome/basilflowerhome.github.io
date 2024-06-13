@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Here's the version history of the portal! The checked one is the currently deployed version.
 
 | Version | Supported          |
 | ------- | ------------------ |
